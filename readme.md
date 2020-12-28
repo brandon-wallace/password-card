@@ -9,7 +9,7 @@ Usage:
 $ python3 generate_card.py 
 ```
 
-Specifying a file name.
+Specify a file name (optional).
 ```
 $ python3 generate_card.py --file my-passwd-card.txt
 ```
